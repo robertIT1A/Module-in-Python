@@ -1,6 +1,5 @@
 # pick a random number
 
-
 import random
 dice = random.randint(1,6)
 print(dice)
@@ -20,3 +19,4 @@ while tries != 0:
         print(f"Remaining Tries is {tries}")
 
 print("Out of try")
+
