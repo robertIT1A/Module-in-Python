@@ -2,4 +2,5 @@
 import calendar
 
 
-print(calendar.calendar(2006))
+print(calendar.calendar(2006)) birthday ko toh
+
